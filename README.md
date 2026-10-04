@@ -9,6 +9,11 @@ Side Dock allows you to put an app on the side and when putting your pointer to 
 You can add multiple apps and they are marked by a slim border with an arrow so you don't loose count of them.
 In order to open one specific app (if multiple present) you put your arrow around or on the border that is at the side of the screen.
 
+When downloading the app from releases:
+2 Files should pop out---> build.bat & SideDocks.cs
+Click on "build.bat". After the app is made you can delete all of the files (other than the app)
+
+
 The default shortcuts are:
 Ctrl+Alt+Left-Arrow  ----> Puts app/s to the left
 Ctrl+Alt+Right-Arrow  ----> Puts app/s to the right
