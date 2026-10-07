@@ -18,6 +18,7 @@ The default shortcuts are:
 Ctrl+Alt+Left-Arrow  ----> Puts app/s to the left
 Ctrl+Alt+Right-Arrow  ----> Puts app/s to the right
 Ctrl+Alt+U  ----> Deactivates the feature
+If you click on the top part (move window bar) of the opened app you can freeze the app on the screen and if clicked again it unfreezes it.
 
 In the system tray you can choose if you want it to start-up with your pc and change the shortcuts.
 
